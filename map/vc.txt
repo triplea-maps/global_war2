@@ -1,0 +1,51 @@
+Moscow (3957,587)
+Germany (3274,752)
+United Kingdom (2893,757)
+Japan (6660,1332)
+Italy (3205,1090)
+Southeastern U.S. (835,1275)
+Szechwan (5696,1522)
+
+Ontario (850,993)
+Stalingrad (4088,863)
+Leningrad (3702,452)
+Bengal (5260,1805)
+Philippines (6140,2074)
+Pacific U.S. (9293,1262)
+New South Wales (6870,3870)
+Hong-Kong (5964,1810)
+
+
+Northern France (2977,870)
+
+Western Poland (3462,730)
+
+Shanghai (6176,1478)
+
+Okinawa (6320,1672)
+
+Anhwei (6058,1430)
+
+Ukraine S.S.R. (3713,800)
+
+Tunisia (3172,1289)
+
+Greece (3525,1240)
+
+Norway (3180,453)
+
+
+Hawaiian Islands (8353,1876)
+
+British Malaya (5685,2566)
+
+Egypt (3726,1514)
+
+Burma (5481,2002)
+
+Northern Territory (6415,3065)
+
+Java (5758,2842)
+
+India (4963,1593)
+
