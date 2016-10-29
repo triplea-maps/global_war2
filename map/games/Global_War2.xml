@@ -2115,13 +2115,6 @@
       <option name="canalName" value="Panama Canal"/>
       <option name="landTerritories" value="Panama"/>
     </attachment>
-    <!-- Add attachments to allow for unit takeover-->
-    <attachment name="playerAttachment" attachTo="Russians" javaClass="games.strategy.triplea.attachments.PlayerAttachment" type="player">
-    </attachment>
-    <attachment name="playerAttachment" attachTo="British" javaClass="games.strategy.triplea.attachments.PlayerAttachment" type="player">
-    </attachment>
-    <attachment name="playerAttachment" attachTo="Americans" javaClass="games.strategy.triplea.attachments.PlayerAttachment" type="player">
-    </attachment>
   </attachmentList>
   <initialize>
     <ownerInitialize>
