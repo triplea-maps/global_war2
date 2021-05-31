@@ -1,0 +1,3 @@
+map_name: global_war2
+games:
+- {game_name: Global War 2, file_name: Global_War2.xml}
